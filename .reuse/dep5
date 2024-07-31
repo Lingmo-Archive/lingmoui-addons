@@ -1,0 +1,20 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: LingmoUI Addons
+Upstream-Contact: Carl Schwan <carl@carlschwan.eu>
+Source: https://invent.kde.org/libraries/lingmoui-addons
+
+Files: autotests/data/*
+Copyright: none
+License: CC0-1.0
+
+Files: docs/pics/*
+Copyright: none
+License: CC0-1.0
+
+Files: examples/FormCardTutorial/*
+Copyright: 2023 by Thiago Masato Costa Sueto <thiago.sueto@kde.org>
+License: LGPL-2.1-or-later
+
+Files: templates/lingmouiaddons6/lingmoui-app.png templates/lingmouiaddons6/lingmoui.kdevtemplate  templates/lingmouiaddons6/android/res/drawable/*
+Copyright: none
+License: CC0-1.0

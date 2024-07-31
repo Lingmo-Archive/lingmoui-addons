@@ -1,0 +1,7 @@
+# KDE Config File
+[General]
+Name=Advanced LingmoUI Application (Qt6)
+Comment=Convergent application using LingmoUI Addons
+Category=Qt/Graphical
+Icon=lingmoui-app.png
+ShowFilesAfterGeneration=src/main.cpp
